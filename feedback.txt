@@ -1,0 +1,5 @@
+Имя: Borya
+Email: borya@mail.ru
+Оценка: 3
+Комментарий: Hello
+
